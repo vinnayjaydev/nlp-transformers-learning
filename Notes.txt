@@ -1,0 +1,11 @@
+| Project                   | When                     |
+| ------------------------- | ------------------------ |
+| Token Explorer            | Tokenization Chapter     |
+| Attention Visualizer      | Attention Chapter        |
+| text-classifier           | BERT Chapter             |
+| sentence-similarity       | Embeddings Chapter       |
+| semantic-search           | SBERT Chapter            |
+| resume-search             | Retrieval/Search Chapter |
+| personal-knowledge-search | End of Book              |
+| pdf-chatbot               | Hands-On LLMs Book       |
+| enterprise-search         | AI Engineering Book      |
